@@ -14,3 +14,9 @@ Adversarial attacks on autonomous driving perception have recently attracted inc
 | ACTIVE | AdvCar |
 |--------|--------|
 | [![ACTIVE](https://img.youtube.com/vi/wKGEWYsH73w/0.jpg)](https://youtu.be/wKGEWYsH73w) | [![AdvCar](https://img.youtube.com/vi/5-ArfuogGKo/0.jpg)](https://youtu.be/5-ArfuogGKo) |
+
+## Video link
+Normal：https://youtu.be/u2CB_8c-UDs
+DTA：https://youtu.be/YWtx-TSjUEw
+ACTIVE：https://youtu.be/wKGEWYsH73w
+Ours：https://youtu.be/5-ArfuogGKo
