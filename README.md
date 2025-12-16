@@ -1,4 +1,4 @@
-# A Framework for Generating Adversarial Texture Against Vehicle Detectors
+# AdvCar: Adversarial Attacking Method Against Vehicle Detectors With Multi-Scales Enhancement
 
 ## Abstract
 
