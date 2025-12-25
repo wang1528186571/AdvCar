@@ -6,6 +6,12 @@ Since we cannot effectively present the relevant experimental results in the mai
 Please note: In the images, the red boxes around the cars with our textures in YOLOv2, YOLOv3, YOLOv5, and Faster-RCNN are ground truth (GT) boxes, not detection boxes. In the D-DETR images, the green boxes are GT boxes.
 ![contrast](src/demo_video/contrast_2.png)
 
+### Physical Comparison Chart
+We expect to complete the supplementary physics experiments within 1-2 days.
+Experimental setup：
+We used two Audi A6L models for physical verification, one as a control group without texture and the other as an experimental group with texture.
+![physical_1](src/demo_video/physical_1.png)
+
 ## Abstract
 
 Adversarial attacks on autonomous driving perception have recently attracted increasing research interest. Despite many physical-world approaches, their effectiveness often deteriorates in real road settings, with limited transfer across changes in viewpoint, distance, and illumination. To address this, we introduce a unified training framework spanning the multi-scale vehicle surface domain, simultaneously optimizing different scales vehicle adversarial textures to improve attack efficacy in both digital and physical environments. The framework incorporates an illumination-consistency module that corrects lighting discrepancies between the textured vehicle and its background, preserving photometric coherence across viewpoints and imaging conditions. Extensive experiments in both digital and physical environments show that, compared with existing methods, our method achieves higher and more stable attack success rates across mainstream detectors and exhibits stronger cross-model and cross-scene generalization.
