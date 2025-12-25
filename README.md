@@ -7,8 +7,10 @@ Since we cannot effectively present the relevant experimental results in the mai
 ![contrast](src/demo_video/contrast_2.png)
 
 ### Physical Comparison Chart
-We expect to complete the supplementary physics experiments within 1-2 days.
+**We expect to complete the supplementary physics experiments within 1-2 days.**
+
 Experimental setup：
+
 We used two Audi A6L models for physical verification, one as a control group without texture and the other as an experimental group with texture.
 ![physical_1](src/demo_video/physical_1.jpg)
 
