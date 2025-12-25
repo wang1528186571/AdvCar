@@ -3,7 +3,7 @@
 ## ❗ Rebuttal Supplementary materials
 Since we cannot effectively present the relevant experimental results in the main text, we will supplement them here.
 ### Digital Comparison Chart
-🔴 ** Please note ** : In the images, the red boxes around the cars with our textures in YOLOv2, YOLOv3, YOLOv5, and Faster-RCNN are ground truth (GT) boxes, not detection boxes. In the D-DETR images, the green boxes are GT boxes.
+🔴 **Please note** : In the images, the red boxes around the cars with our textures in YOLOv2, YOLOv3, YOLOv5, and Faster-RCNN are ground truth (GT) boxes, not detection boxes. In the D-DETR images, the green boxes are GT boxes.
 ![contrast](src/demo_video/contrast_2.png)
 
 ### Physical Comparison Chart
