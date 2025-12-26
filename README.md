@@ -11,8 +11,15 @@ Since we cannot effectively present the relevant experimental results in the mai
 
 Experimental setup：
 
-We used two Audi A6L models for physical verification, one as a control group without texture and the other as an experimental group with texture.
+We used two Audi A6L models for physical verification, one as a control group without texture and the other as an experimental group with texture. We collected 327 real-world images with AdvCar adversarial textures.
+
+Target detector：YOLOv5 ；IOU threshold：0.5 ；Confidence threshold: 0.5
 ![physical_1](src/demo_video/physical_1.jpg)
+
+In the physical world, our attack success rate reached 88.03%. Although this is slightly lower than in numerical experiments, it still maintains a high success rate.
+
+We conducted physical experiments and visualized them. 
+![physical](src/demo_video/phy_val.png)
 
 ## Abstract
 
